@@ -56,6 +56,52 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [基于后编译的国际化解决方案](https://juejin.im/post/5b47148c518825196b01ca3a)
 
+[Webpack hash 生成规则](https://github.com/CommanderXL/Biu-blog/issues/29)
+
+[Webpack Ruleset loader过滤器](https://github.com/CommanderXL/Biu-blog/issues/30)
+
+[Webpack Loader 高手进阶(一)](https://github.com/CommanderXL/Biu-blog/issues/31)
+
+[Webpack Loader 高手进阶(二)](https://github.com/CommanderXL/Biu-blog/issues/32)
+
+[Webpack Loader 高手进阶(三)](https://github.com/CommanderXL/Biu-blog/issues/33)
+
+[Webpack Chunk 生成策略源码探索](https://github.com/CommanderXL/Biu-blog/issues/34)
+
+[Webpack dependencyTemplates 依赖模板](https://github.com/CommanderXL/Biu-blog/issues/37)
+
+[Webpack module 模块系统](https://github.com/CommanderXL/Biu-blog/issues/38)
+
+[Webpack Debugger](https://github.com/CommanderXL/Biu-blog/issues/39)
+
+[Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
+
+## 小程序
+
+### Mpx 小程序框架技术揭秘
+
+[1. 动态入口编译](https://github.com/CommanderXL/Biu-blog/issues/41)
+
+[2. Render Function](https://github.com/CommanderXL/Biu-blog/issues/42)
+
+[3. Wxs Module](https://github.com/CommanderXL/Biu-blog/issues/43)
+
+[4. template/script/style/json 模块文件的生成](https://github.com/CommanderXL/Biu-blog/issues/44)
+
+[5. 响应式系统](https://github.com/CommanderXL/Biu-blog/issues/45)
+
+[6. 性能优化.Part1](https://github.com/CommanderXL/Biu-blog/issues/46)
+
+[7. 性能优化.Part2](https://github.com/CommanderXL/Biu-blog/issues/47)
+
+[8. 事件系统]()
+
+## Typescript
+
+[声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
+
+[类型操作符](https://github.com/CommanderXL/Biu-blog/issues/36)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
