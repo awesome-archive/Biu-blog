@@ -1,6 +1,16 @@
 Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家关注。
 
+## AI 相关
+
+[代码知识图谱：聊聊代码 RAG](https://github.com/CommanderXL/Biu-blog/issues/69)
+
 ## Vue 系列
+
+[Vue3.4 effect-drity-check 机制](https://github.com/CommanderXL/Biu-blog/issues/60)
+
+[Composition Api for Vue2](https://github.com/CommanderXL/Biu-blog/issues/58)
+
+[Vite - HMR](https://github.com/CommanderXL/Biu-blog/issues/50)
 
 [Vue-cli@3.0 插件系统简析](https://github.com/CommanderXL/biu-blog/issues/23)
 
@@ -20,7 +30,6 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [前端国际化之Vue-i18n源码分析](https://github.com/CommanderXL/biu-blog/issues/11)
 
-
 ## Node.js 
 
 [Node.js几种创建子进程方法](https://github.com/CommanderXL/biu-blog/issues/25)
@@ -34,6 +43,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [Express 的 middleware 设计](https://github.com/CommanderXL/biu-blog/issues/5)
 
 ## Javascript
+
+[循环依赖](https://github.com/CommanderXL/Biu-blog/issues/49)
 
 [Promise 库 lie.js 源码解读](https://github.com/CommanderXL/biu-blog/issues/26)
 
@@ -56,6 +67,88 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [基于后编译的国际化解决方案](https://juejin.im/post/5b47148c518825196b01ca3a)
 
+[Webpack hash 生成规则](https://github.com/CommanderXL/Biu-blog/issues/29)
+
+[Webpack Ruleset loader过滤器](https://github.com/CommanderXL/Biu-blog/issues/30)
+
+[Webpack Loader 高手进阶(一)](https://github.com/CommanderXL/Biu-blog/issues/31)
+
+[Webpack Loader 高手进阶(二)](https://github.com/CommanderXL/Biu-blog/issues/32)
+
+[Webpack Loader 高手进阶(三)](https://github.com/CommanderXL/Biu-blog/issues/33)
+
+[Webpack Chunk 生成策略源码探索](https://github.com/CommanderXL/Biu-blog/issues/34)
+
+[Webpack dependencyTemplates 依赖模板](https://github.com/CommanderXL/Biu-blog/issues/37)
+
+[Webpack module 模块系统](https://github.com/CommanderXL/Biu-blog/issues/38)
+
+[Webpack Debugger](https://github.com/CommanderXL/Biu-blog/issues/39)
+
+[Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
+
+[Webpack HMR](https://github.com/CommanderXL/Biu-blog/issues/51)
+
+[@vue/cli 项目编译重复命中缓存问题解析](https://github.com/CommanderXL/Biu-blog/issues/48)
+
+[Webpack5 持久化缓存](https://github.com/CommanderXL/Biu-blog/issues/55)
+
+[Webpack Resolver](https://github.com/CommanderXL/Biu-blog/issues/63)
+
+## 小程序
+
+### Mpx 小程序框架技术揭秘
+
+[1. 动态入口编译](https://github.com/CommanderXL/Biu-blog/issues/41)
+
+[2. Render Function](https://github.com/CommanderXL/Biu-blog/issues/42)
+
+[3. Wxs Module](https://github.com/CommanderXL/Biu-blog/issues/43)
+
+[4. template/script/style/json 模块文件的生成](https://github.com/CommanderXL/Biu-blog/issues/44)
+
+[5. 响应式系统](https://github.com/CommanderXL/Biu-blog/issues/45)
+
+[6. 性能优化.Part1](https://github.com/CommanderXL/Biu-blog/issues/46)
+
+[7. 性能优化.Part2](https://github.com/CommanderXL/Biu-blog/issues/47)
+
+[8. 事件系统](https://github.com/CommanderXL/Biu-blog/issues/54)
+
+[9. 跨 web 方案的实现](https://github.com/CommanderXL/Biu-blog/issues/56)
+
+[10. bundle 策略](https://github.com/CommanderXL/Biu-blog/issues/59)
+
+[11. 局部运行时能力增强](https://github.com/CommanderXL/Biu-blog/issues/61)
+
+[12. i18n 能力](https://github.com/CommanderXL/Biu-blog/issues/64)
+
+### Mpx 生态相关
+
+[1. mpx-cli@next 插件化改造](https://github.com/CommanderXL/Biu-blog/issues/53)
+
+[2. 一次 mpx 对于 web 生态能力复用的探索](https://github.com/CommanderXL/Biu-blog/issues/57)
+
+[3. 小程序跨端组件库 mpx-cube-ui](https://github.com/CommanderXL/Biu-blog/issues/62)
+
+### Mpx2RN
+
+[1. 透过 ref 的使用看 Mpx2RN 组件渲染更新](https://github.com/CommanderXL/Biu-blog/issues/65)
+
+[2. Mpx2RN Ref 能力](https://github.com/CommanderXL/Biu-blog/issues/66)
+
+[3. 跨端一致性&性能优化: Mpx2RN 异步分包](https://github.com/CommanderXL/Biu-blog/issues/67)
+
+## Typescript
+
+[声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
+
+[类型操作符](https://github.com/CommanderXL/Biu-blog/issues/36)
+
+## Babel
+
+[Babel7](https://github.com/CommanderXL/Biu-blog/issues/52)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
@@ -65,3 +158,5 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [移动端H5图片上传的那些坑](https://github.com/CommanderXL/biu-blog/issues/6)
 
 [前端通用国际化解决方案](https://github.com/CommanderXL/biu-blog/issues/14)
+
+[从一次 CR 谈业务项目中的组件分层与复用](https://github.com/CommanderXL/Biu-blog/issues/68)
